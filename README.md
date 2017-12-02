@@ -6,8 +6,8 @@ Below is a list of Machine Learning concepts that I have learnt and implemented 
 2. Logistic Regression
 3. Multi-class Classfication
 4. Neural Networks
-  * Backpropagation
-  * Visualizing the hidden layer
+   * Backpropagation
+   * Visualizing the hidden layer
 5. Regularized Linear Regression
 6. Bias-variance
 7. Polynomial Regression
