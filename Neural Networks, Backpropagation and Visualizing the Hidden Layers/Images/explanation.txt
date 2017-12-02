@@ -1,0 +1,1 @@
+Cost value for regularized is higher than no regularzied, it is normal since when performing regularization, the idea is to 'regularize' the algorithm, so it does not overfit the problem.
